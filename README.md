@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on various projects
 - 🤔 I’m looking for help with connections & communications.
 - 💬 Ask me about anything coding related
-- 📫 How to reach me: amanmstudies@gmail.com / 9833006363
+- 📫 How to reach me: amanmstudies@gmail.com / +919833006363
 
