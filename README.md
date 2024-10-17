@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning Java, Data structures in C, Digital Logic and Computer Architecture and Generative AI
 - 👯 I’m looking to collaborate on various projects
 - 🤔 I’m looking for help with connections & communications & also Deep Learning.
-- 💬 Ask me about anything Coding / ML / DL related (not too complex tho 😅)
+- 💬 Ask me about anything Coding / ML / DL related (You can ask complex questions too, I might not have the answer to it, but we both might end up learning something. 😅😄)
 - 📫 How to reach me: amanmstudies@gmail.com / +919833006363
 
