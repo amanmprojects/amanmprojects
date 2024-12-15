@@ -3,8 +3,6 @@
 I'm a passionate student developer exploring various domains of technology, from Machine Learning to Full Stack Development. Currently balancing academics with hands-on project development.
 
 ## 🎓 Currently
-- Preparing for Semester Exams
-- Learning Java, Data Structures in C, Digital Logic, and Computer Architecture
 - Exploring Generative AI and Deep Learning
 
 ## 🚀 Notable Projects
